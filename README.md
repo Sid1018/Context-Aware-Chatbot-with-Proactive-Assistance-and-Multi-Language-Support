@@ -1,4 +1,8 @@
 # Context-Aware-Chatbot-with-Proactive-Assistance-and-Multi-Language-Support
+<p align="center">
+  <img width="460" height="300" src="https://github.com/user-attachments/assets/a3b1543e-0eb5-4fd2-8280-9fd3342d650b"
+>
+</p>
 This project aims to enhance user interactions with a context-aware chatbot that can handle complex queries, provide proactive assistance, and offer multi-language support with localization.
 
 ## Table of Contents
